@@ -1,0 +1,8 @@
+.image{
+    background-image: url("https://media.istockphoto.com/id/1200606858/photo/apple-store-at-5th-ave-in-manhattan-nyc.jpg?s=612x612&w=0&k=20&c=dWbd3nWe_IkL7PeWedSNf7RNMOiaZWF6W7Z2wsqr2yI=");
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
