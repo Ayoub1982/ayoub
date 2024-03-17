@@ -6,3 +6,15 @@
     background-size: cover;
     
 }
+.btn>button{
+    background-color: black;
+    color: #fff;
+}
+.image2{
+    background-image: url("https://c7.alamy.com/comp/C8MJ75/apple-store-iphone-4s-queue-apple-employers-are-adjusting-the-iphone-C8MJ75.jpg");
+    height: 80vh;
+    width: 100%;
+}
+.class-closer{
+height: 70vh !important;
+}
